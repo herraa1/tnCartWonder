@@ -47,7 +47,7 @@ For WonderTANG! V1.01c, these are the differences:
 
 You will need to use openFPGALoader >= v0.10.0.
 
-- First, flash the bitstream `tnCart_board_wt200b.fs` into the Tang Nano 20k used in your WonderTANG board
+- First, flash the bitstream [`tnCart_board_wt200b.fs`](https://raw.githubusercontent.com/herraa1/tnCartWonder/main/rtl/impl/pnr/tnCart_board_wt200b.fs) into the Tang Nano 20k used in your WonderTANG board
 
   ~~~Shell
   openFPGALoader -f -b tangnano20k --external-flash rtl/impl/pnr/tnCart_board_wt200b.fs
@@ -85,7 +85,7 @@ You will need to use openFPGALoader >= v0.10.0.
 
 You will need to use openFPGALoader >= v0.10.0.
 
-- First, flash the bitstream `tnCart_board_wt102d.fs` into the Tang Nano 20k used in your WonderTANG board
+- First, flash the bitstream [`tnCart_board_wt102d.fs`](https://raw.githubusercontent.com/herraa1/tnCartWonder/main/rtl/impl/pnr/tnCart_board_wt102d.fs) into the Tang Nano 20k used in your WonderTANG board
 
   ~~~Shell
   openFPGALoader -f -b tangnano20k --external-flash rtl/impl/pnr/tnCart_board_wt102d.fs
@@ -123,7 +123,7 @@ You will need to use openFPGALoader >= v0.10.0.
 
 You will need to use openFPGALoader >= v0.10.0.
 
-- First, flash the bitstream `tnCart_board_wt101c.fs` into the Tang Nano 20k used in your WonderTANG board
+- First, flash the bitstream [`tnCart_board_wt101c.fs`](https://raw.githubusercontent.com/herraa1/tnCartWonder/main/rtl/impl/pnr/tnCart_board_wt101c.fs) into the Tang Nano 20k used in your WonderTANG board
 
   ~~~Shell
   openFPGALoader -f -b tangnano20k --external-flash rtl/impl/pnr/tnCart_board_wt101c.fs
